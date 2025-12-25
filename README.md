@@ -1,5 +1,7 @@
 **Description**
+<pre>
 This project performs sentiment analysis on textual data to classify opinions as Positive, Negative, or Neutral. It uses Natural Language Processing (NLP) techniques and machine learning models to analyze text data such as reviews or tweets.
+</pre>
 
 **Objectives**
 <pre>
