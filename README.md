@@ -4,31 +4,31 @@ This project performs sentiment analysis on textual data to classify opinions as
 
 
 **Objectives**
-<pre>
-Understand and apply NLP techniques
-Preprocess and clean text data
-Train a sentiment classification model
-Evaluate model performance
-</pre>
+
+-Understand and apply NLP techniques
+-Preprocess and clean text data
+-Train a sentiment classification model
+-Evaluate model performance
+
 
 **Technologies Used**
-<pre>
-Python
-Pandas, NumPy
-NLTK / SpaCy
-Scikit-learn
-Matplotlib / Seaborn
-Jupyter Notebook
-</pre>
+
+-Python
+-Pandas, NumPy
+-NLTK / SpaCy
+-Scikit-learn
+-Matplotlib / Seaborn
+-Jupyter Notebook
+
 
 **Methodology**
-<pre>
-Data loading
-Text preprocessing (lowercasing, stopword removal, stemming/lemmatization)
-Feature extraction (Bag of Words / TF-IDF)
-Model training (Logistic Regression / Naive Bayes / LSTM)
-Model evaluation
-</pre>
+
+-Data loading
+-Text preprocessing (lowercasing, stopword removal, stemming/lemmatization)
+-Feature extraction (Bag of Words / TF-IDF)
+-Model training (Logistic Regression / Naive Bayes / LSTM)
+-Model evaluation
+
 
 **Project Structure**
 <pre>
